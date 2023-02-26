@@ -1,0 +1,119 @@
+{
+    "Monedas": [
+       {
+            "nombre": "PEN",
+            "ruta": "/images/peru.png",
+            "tipoCambio":[
+                {"simbolo": "PEN","valor": 1.0},
+                {"simbolo": "USD","valor": 0.26},
+                {"simbolo": "EUR","valor": 0.25},
+                {"simbolo": "JPY","valor": 35.39},
+                {"simbolo": "GBP","valor": 0.22},
+                {"simbolo": "KRW","valor": 341.11},
+                {"simbolo": "BRL","valor": 1.35}
+            ]
+    },
+    {
+            "nombre": "USD",
+            "ruta": "/images/eeuu.png", 
+            "tipoCambio":[
+                {"simbolo": "PEN","valor": 3.81},
+                {"simbolo": "USD","valor": 1.0},
+                {"simbolo": "EUR","valor": 0.94},
+                {"simbolo": "JPY","valor": 134.71},
+                {"simbolo": "GBP","valor": 0.83},
+                {"simbolo": "KRW","valor": 1298.30},
+                {"simbolo": "BRL","valor": 5.14}
+            ]
+    },
+    {
+            "nombre": "EUR",
+            "ruta": "/images/euro.png",
+            "tipoCambio":[
+                {"simbolo": "PEN","valor": 4.03},
+                {"simbolo": "USD","valor": 1.06},
+                {"simbolo": "EUR","valor": 1.0},
+                {"simbolo": "JPY","valor": 142.73},
+                {"simbolo": "GBP","valor": 0.88},
+                {"simbolo": "KRW","valor": 1375.48},
+                {"simbolo": "BRL","valor": 5.44}
+            ]
+    },
+    {
+            "nombre": "JPY",
+            "ruta": "/images/japon.png",
+            "tipoCambio":[
+                {"simbolo": "PEN","valor": 0.028},
+                {"simbolo": "USD","valor": 0.0074},
+                {"simbolo": "EUR","valor": 0.0070},
+                {"simbolo": "JPY","valor": 1.0},
+                {"simbolo": "GBP","valor": 0.0062},
+                {"simbolo": "KRW","valor": 9.64},
+                {"simbolo": "BRL","valor": 0.038}
+            ]
+    },
+    {
+            "nombre": "GBP",
+            "ruta": "/images/libras_esterlinas.png",
+            "tipoCambio":[
+                {"simbolo": "PEN","valor": 4.57},
+                {"simbolo": "USD","valor": 1.20},
+                {"simbolo": "EUR","valor": 1.13},
+                {"simbolo": "JPY","valor": 161.85},
+                {"simbolo": "GBP","valor": 1.0},
+                {"simbolo": "KRW","valor": 1559.30},
+                {"simbolo": "BRL","valor": 6.17}
+            ]
+    },
+    {
+            "nombre": "KRW",
+            "ruta": "/images/surcorea.png",
+            "tipoCambio":[
+                {"simbolo": "PEN","valor": 0.0029},
+                {"simbolo": "USD","valor": 0.00077},
+                {"simbolo": "EUR","valor": 0.00073},
+                {"simbolo": "JPY","valor": 0.10},
+                {"simbolo": "GBP","valor": 0.00064},
+                {"simbolo": "KRW","valor": 1.0},
+                {"simbolo": "BRL","valor": 0.0040}
+            ]
+    },
+    {
+            "nombre": "BRL",
+            "ruta": "/images/brasil.png",
+            "tipoCambio":[
+                {"simbolo": "PEN","valor": 0.74},
+                {"simbolo": "USD","valor": 0.19},
+                {"simbolo": "EUR","valor": 0.18},
+                {"simbolo": "JPY","valor": 26.22},
+                {"simbolo": "GBP","valor": 0.16},
+                {"simbolo": "KRW","valor": 252.71},
+                {"simbolo": "BRL","valor": 1.0}
+            ]
+    }
+    ],
+    "Temperatura":[
+        {
+            "nombre":"Celcius",
+            "ruta":"/images/temperatura.png"
+        },
+        {
+            "nombre":"Kelvin",
+            "ruta":"/images/temperatura.png"
+        }
+        ,
+        {
+            "nombre":"Fahrenheit",
+            "ruta":"/images/temperatura.png"
+        }
+        ,
+        {
+            "nombre":"Reamur",
+            "ruta":"/images/temperatura.png"
+        },
+        {
+            "nombre":"Rankine",
+            "ruta":"/images/temperatura.png"
+        }
+    ]
+}
