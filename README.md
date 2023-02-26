@@ -3,8 +3,7 @@
 # Uso
 Para utilizar el conversor de monedas, simplemente descarga o clona el repositorio y ejecuta el archivo VistaPrincipal.java. El programa te pedirá que ingreses la cantidad de la moneda que deseas convertir, así como la moneda de origen y la moneda de destino. El programa buscará la tasa de cambio correspondiente en un archivo JSON, realizará la conversión y te mostrará el resultado. Y de igual forma para la conversion de Temperatura te pedirá el valor que quieres convertir de una Temperatura Inicial a una Temperatura Destina y al instante te mostrará el resultado.
 
-![conversorMoneda](https://user-images.githubusercontent.com/89428495/221436378-fef13628-fbf4-42e5-8224-1299901f0800.png)
-![conversorTemperatura](https://user-images.githubusercontent.com/89428495/221436392-91de8554-4f04-42ca-9490-7c9d06dea733.png)
+https://user-images.githubusercontent.com/89428495/221437021-c61c58d0-06cc-4495-b864-2b6c94024f02.mp4
 
 
 # Configuración
