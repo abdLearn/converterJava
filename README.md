@@ -15,7 +15,7 @@ Para agregar o modificar las tasas de cambio, simplemente modifica el archivo da
 ## Tecnologias utilizados
 El aplicactivo de escritorio se desarrollo en el IDE de _Apache Neatbeans_, empleando el **lenguaje Java.** con Swing
 <p align="center" dir="auto">
-  <img align="center" src="https://skills.thijs.gg/icons?i=figma,java,figma,git,idea"/>
+  <img align="center" src="https://skills.thijs.gg/icons?i=java,figma,github,idea"/>
 </p>
 
 
